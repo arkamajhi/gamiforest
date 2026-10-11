@@ -1,0 +1,16 @@
+{
+  "name": "GamiForest \u2014 Where Forests Meet Play",
+  "short_name": "GamiForest",
+  "description": "A living atlas of forest games and research",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10251d",
+  "theme_color": "#10251d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
