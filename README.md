@@ -57,3 +57,7 @@ Locally run `python -m http.server 8000` from the extracted folder and open `htt
 - External videos may be blocked by network conditions. CSS backgrounds provide fallbacks.
 - Motion implementation: `motion.css`, `motion.js`, video elements injected into homepage and secondary pages.
 - For the best production experience, host compressed WebM/MP4 variants locally, and feature original SIMAplay/game footage only with permission.
+
+
+## Analytics and privacy
+All 28 HTML pages include Microsoft Clarity (`yw97ulz6xm`) and Google Analytics 4 (`G-TVEGV4MHV0`) in the head. Both require internet connectivity. Before launching for EU visitors, review applicable consent requirements, implement a consent management mechanism where required, and update the site privacy page to accurately describe the tools and cookie usage. The scripts as supplied are not consent-gated.
